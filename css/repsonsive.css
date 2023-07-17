@@ -1325,7 +1325,13 @@ margin: 20px;
     header .ads{
     font-size: 55%;
   }
-  
+  .card100 a{
+    display:none ;
+  }
+  .card300 a {
+    display:none ;
+
+  }
 }
 @media (max-width:930px) {
 
