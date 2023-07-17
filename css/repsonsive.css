@@ -1247,7 +1247,13 @@ font-weight: 300;
     }
 
 @media (max-width:526px) {
-    
+     .card100 a{
+    display:none ;
+  }
+  .card300 a {
+    display:none ;
+
+  }
     .page6 {
         position: relative;
       }
@@ -1325,13 +1331,7 @@ margin: 20px;
     header .ads{
     font-size: 55%;
   }
-  .card100 a{
-    display:none ;
-  }
-  .card300 a {
-    display:none ;
-
-  }
+ 
 }
 @media (max-width:930px) {
 
